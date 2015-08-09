@@ -1,0 +1,1 @@
+Lưu trữ file javascript của Xcomicvn.
